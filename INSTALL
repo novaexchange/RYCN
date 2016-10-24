@@ -1,0 +1,9 @@
+Building RYCN
+
+See doc/readme-qt.rst for instructions on building RYCN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of RYCN.
+
+See doc/build-*.txt for instructions on building RYCNd,
+the intended-for-services, no-graphical-interface, reference
+implementation of RYCN.
